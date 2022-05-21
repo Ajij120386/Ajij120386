@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Ajij(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Ajij(Ajij)</h1>
 <h3 align="center">A passionate Competitive Programmer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/Ajij120386) 
