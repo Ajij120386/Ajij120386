@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/Ajij120386) 
 
 Welcome to my GitHub profile. I am a  passionate Competitive Programmer. 
-Knock me: https://fb.com/mohammad.ajij.120386
+Knock me: https://discord.com/channels/@me?fbclid=IwAR2kt6kswxmDf7vtYOuV6_TW1D4r9dr4tj7C5qql0eEcmz4ShWHgEtBLC_o
 
 Skills: C/C++
  
