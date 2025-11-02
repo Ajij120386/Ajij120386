@@ -18,7 +18,7 @@ Skills: C/C++
 
 - 📫 How to reach me: **mohammadajij120386@gmail.com**
 
-- 📄 All About Me: https://fb.com/mohammad.ajij.120386
+- 📄 All About Me: https://ajij-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
